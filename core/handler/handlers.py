@@ -16,7 +16,6 @@ class Handler(ABC):
 		return '"Handler(%s)"' % self.__class__.__name__.rstrip("Handler")
 
 
-
 class Safar724Handler(Handler):
 	def search(self, ticket_request: TicketRequest) -> list[Ticket]:
 		"""Search trough the provider for specific input filters"""

@@ -11,8 +11,8 @@ class TicketRequest:
 	departue_date: datetime.datetime
 	price_range: tuple[int]
 	time_range: tuple[datetime.time]
-	return_data: datetime.datetime | None = None
-	on_way: bool = True
+	return_date: datetime.datetime | None = None
+	one_way: bool = True
 	class_type: str | None = None
 
 

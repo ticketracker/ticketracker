@@ -10,11 +10,10 @@ from core.provider import Provider
 @dataclass
 class Tracker:
 	id : Optional[uuid.uuid4] = field(init=False)
-	tickete_request: TicketRequest
+	ticket_request: TicketRequest
 	providers: list[Provider] = field(repr=False)
 	active_duration: datetime.timedelta
 	report_to: str
-
 
 	def __post_init__(self):
 		self.id = uuid.uuid4()
