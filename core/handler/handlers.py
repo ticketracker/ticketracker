@@ -4,6 +4,7 @@ from typing import Optional
 import requests
 import jdatetime
 import datetime
+import aiohttp
 
 from core.ticket import Ticket, TicketRequest
 from .cities import SAFAR724_CITIES
@@ -20,7 +21,7 @@ def get_city(name: str, city_list: list[dict]) -> Optional[dict]:
 class Handler(ABC):
 
 	@abstractmethod
-	def search(self, input: TicketRequest) -> list[Ticket]: ...
+	async def search(self, input: TicketRequest) -> list[Ticket]: ...
 
 	@abstractmethod
 	def is_valid_ticket(input: TicketRequest, service: dict) -> bool: ...
@@ -36,7 +37,7 @@ class Handler(ABC):
 
 
 class Safar724Handler(Handler):
-	def search(self, ticket_request: TicketRequest) -> list[Ticket] | bool:
+	async def search(self, ticket_request: TicketRequest) -> list[Ticket] | bool:
 		"""Search trough the provider for specific input filters"""
 
 		origin_city = get_city(ticket_request.origin_city, SAFAR724_CITIES)
@@ -49,20 +50,21 @@ class Safar724Handler(Handler):
 			print("city not found: %s" % ticket_request.destination_city)
 			return False
 
-		response = requests.get(
-			url="https://safar724.com/bus/getservices",
-			params={
-				"origin": origin_city["code"],
-				"destination": destination_city["code"],
-				"date": jdatetime.datetime.fromtimestamp(ticket_request.departue_date.timestamp()).strftime("%Y-%m-%d")
-			}
-		)
-		if response.status_code != 200:
-			print("something went wrong")
-			return False
+		body = None
+		parameters = {
+			"origin": origin_city["code"],
+			"destination": destination_city["code"],
+			"date": jdatetime.datetime.fromtimestamp(ticket_request.departue_date.timestamp()).strftime("%Y-%m-%d")
+		}
+		async with aiohttp.ClientSession() as session:
+			async with session.get("https://safar724.com/bus/getservices", params=parameters) as response:
+				if response.status != 200:
+					print("something went wrong")
+					return False
 
-		data = response.json()
-		services = data['Items']
+				body = await response.json()
+
+		services = body['Items']
 		if not services:
 			return False
 
@@ -70,10 +72,10 @@ class Safar724Handler(Handler):
 			self.to_ticket(
 				service,
 				ticket_request,
-				persion_origin_city=data['OriginPersianName'],
-				persian_dest_city=data['DestinationPersianName'],
-				eng_org_city=data['OriginEnglishName'],
-				eng_dest_city=data['DestinationEnglishName'],
+				persion_origin_city=body['OriginPersianName'],
+				persian_dest_city=body['DestinationPersianName'],
+				eng_org_city=body['OriginEnglishName'],
+				eng_dest_city=body['DestinationEnglishName'],
 			)
 			for service in services
 			if self.is_valid_ticket(ticket_request, service)
@@ -113,7 +115,7 @@ class Safar724Handler(Handler):
 
 
 class AlibabaHandler(Handler):
-	def search(self, ticket_request: TicketRequest) -> list[Ticket]:
+	async def search(self, ticket_request: TicketRequest) -> list[Ticket]:
 		"""Search trough the provider for specific input filters"""
 		pass
 
@@ -125,7 +127,7 @@ class AlibabaHandler(Handler):
 
 
 class MrbilitHandler(Handler):
-	def search(self, ticket_request: TicketRequest) -> list[Ticket]:
+	async def search(self, ticket_request: TicketRequest) -> list[Ticket]:
 		"""Search trough the provider for specific input filters"""
 		pass
 
@@ -137,7 +139,7 @@ class MrbilitHandler(Handler):
 
 
 class SafarmarketHandler(Handler):
-	def search(self, ticket_request: TicketRequest) -> list[Ticket]:
+	async def search(self, ticket_request: TicketRequest) -> list[Ticket]:
 		"""Search trough the provider for specific input filters"""
 		pass
 
@@ -149,7 +151,7 @@ class SafarmarketHandler(Handler):
 
 
 class Ghasedak24Handler(Handler):
-	def search(self, ticket_request: TicketRequest) -> list[Ticket]:
+	async def search(self, ticket_request: TicketRequest) -> list[Ticket]:
 		"""Search trough the provider for specific input filters"""
 		pass
 
@@ -161,7 +163,7 @@ class Ghasedak24Handler(Handler):
 
 
 class EligashtHandler(Handler):
-	def search(self, ticket_request: TicketRequest) -> list[Ticket]:
+	async def search(self, ticket_request: TicketRequest) -> list[Ticket]:
 		"""Search trough the provider for specific input filters"""
 		pass
 
@@ -173,7 +175,7 @@ class EligashtHandler(Handler):
 
 
 class RajaHandler(Handler):
-	def search(self, ticket_request: TicketRequest) -> list[Ticket]:
+	async def search(self, ticket_request: TicketRequest) -> list[Ticket]:
 		"""Search trough the provider for specific input filters"""
 		pass
 
@@ -185,7 +187,7 @@ class RajaHandler(Handler):
 
 
 class FlytodayHandler(Handler):
-	def search(self, ticket_request: TicketRequest) -> list[Ticket]:
+	async def search(self, ticket_request: TicketRequest) -> list[Ticket]:
 		"""Search trough the provider for specific input filters"""
 		pass
 
