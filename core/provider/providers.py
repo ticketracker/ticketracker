@@ -29,13 +29,13 @@ class Provider:
 	handler: Handler
 
 
-providers_list = [
-	Provider("safar724", Vehicle.BUS, Safar724Handler()),
-	Provider("alibaba", [Vehicle.BUS, Vehicle.AIRPLANE, Vehicle.TRAIN], AlibabaHandler()),
-	Provider("mrbilit", Vehicle.ALL, MrbilitHandler()),
-	Provider("safarmarket", [Vehicle.AIRPLANE, Vehicle.TRAIN], SafarmarketHandler()),
-	Provider("ghasedak24", [Vehicle.BUS, Vehicle.AIRPLANE, Vehicle.TRAIN], Ghasedak24Handler()),
-	Provider("eligasht", [Vehicle.AIRPLANE, Vehicle.TRAIN], EligashtHandler()),
-	Provider("raja", Vehicle.TRAIN, RajaHandler()),
-	Provider("flytoday", Vehicle.AIRPLANE, FlytodayHandler()),
-]
+providers_list = {
+	"safar724": Provider("safar724", Vehicle.BUS, Safar724Handler()),
+	"alibaba": Provider("alibaba", [Vehicle.BUS, Vehicle.AIRPLANE, Vehicle.TRAIN], AlibabaHandler()),
+	"mrbilit": Provider("mrbilit", Vehicle.ALL, MrbilitHandler()),
+	"safarmarket": Provider("safarmarket", [Vehicle.AIRPLANE, Vehicle.TRAIN], SafarmarketHandler()),
+	"ghasedak24": Provider("ghasedak24", [Vehicle.BUS, Vehicle.AIRPLANE, Vehicle.TRAIN], Ghasedak24Handler()),
+	"eligasht": Provider("eligasht", [Vehicle.AIRPLANE, Vehicle.TRAIN], EligashtHandler()),
+	"raja": Provider("raja", Vehicle.TRAIN, RajaHandler()),
+	"flytoday": Provider("flytoday", Vehicle.AIRPLANE, FlytodayHandler()),
+}
