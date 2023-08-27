@@ -1,0 +1,3390 @@
+[
+    {
+        "city": "ARBABKANDI",
+        "code": "91352025"
+    },
+    {
+        "city": "ARDABIL",
+        "code": "91310000"
+    },
+    {
+        "city": "ASLANDUZ",
+        "code": "91352000"
+    },
+    {
+        "city": "BILEHSAVAR",
+        "code": "91340000"
+    },
+    {
+        "city": "PARSABAD",
+        "code": "91350000"
+    },
+    {
+        "city": "JAFARABAD",
+        "code": "91342022"
+    },
+    {
+        "city": "KHALKHAL",
+        "code": "91360000"
+    },
+    {
+        "city": "KHVORESHROSTAM",
+        "code": "91362000"
+    },
+    {
+        "city": "MUGANPLAIN",
+        "code": "91351004"
+    },
+    {
+        "city": "RAZEY",
+        "code": "91393021"
+    },
+    {
+        "city": "SABALAN",
+        "code": "91351022"
+    },
+    {
+        "city": "SAREYN",
+        "code": "91410000"
+    },
+    {
+        "city": "SANJABAD",
+        "code": "91361024"
+    },
+    {
+        "city": "FAKHRABAD",
+        "code": "91392023"
+    },
+    {
+        "city": "QARAHAGHAJEPAYIN",
+        "code": "91382023"
+    },
+    {
+        "city": "KOLOWR",
+        "code": "91363024"
+    },
+    {
+        "city": "KOSAR",
+        "code": "91370000"
+    },
+    {
+        "city": "KURAYIM",
+        "code": "91322000"
+    },
+    {
+        "city": "GERMI",
+        "code": "91380000"
+    },
+    {
+        "city": "LAHRUD",
+        "code": "91392021"
+    },
+    {
+        "city": "MORADLU",
+        "code": "91393023"
+    },
+    {
+        "city": "MESHGINSHARQ",
+        "code": "91392000"
+    },
+    {
+        "city": "MESHGINSHAHR",
+        "code": "91390000"
+    },
+    {
+        "city": "NAMIN",
+        "code": "91330000"
+    },
+    {
+        "city": "NUJEHDEH",
+        "code": "91331027"
+    },
+    {
+        "city": "NIR",
+        "code": "91320000"
+    },
+    {
+        "city": "HASHATJIN",
+        "code": "91362022"
+    },
+    {
+        "city": "HIR",
+        "code": "91313000"
+    },
+    {
+        "city": "YEREVAN",
+        "code": "156001"
+    },
+    {
+        "city": "KAPAN",
+        "code": "156002"
+    },
+    {
+        "city": "ARDESTAN",
+        "code": "21320000"
+    },
+    {
+        "city": "ESKANDARI",
+        "code": "21361023"
+    },
+    {
+        "city": "ESFAHAN",
+        "code": "21310000"
+    },
+    {
+        "city": "ANARAK",
+        "code": "21462000"
+    },
+    {
+        "city": "BADRUD",
+        "code": "21492000"
+    },
+    {
+        "city": "TIRANANDKARVAN",
+        "code": "21480000"
+    },
+    {
+        "city": "JANDAQ",
+        "code": "21571021"
+    },
+    {
+        "city": "CHADGAN",
+        "code": "21530000"
+    },
+    {
+        "city": "KHOMEYNISHAHR",
+        "code": "21330000"
+    },
+    {
+        "city": "KHVANSAR",
+        "code": "21340000"
+    },
+    {
+        "city": "KHUR",
+        "code": "21570000"
+    },
+    {
+        "city": "DARAN",
+        "code": "21361021"
+    },
+    {
+        "city": "DAMANEH",
+        "code": "21361022"
+    },
+    {
+        "city": "DOWLATABAD",
+        "code": "21513000"
+    },
+    {
+        "city": "DEHAQAN",
+        "code": "21560000"
+    },
+    {
+        "city": "ZARRINSHAHR",
+        "code": "21451021"
+    },
+    {
+        "city": "ZAVAREH",
+        "code": "21322000"
+    },
+    {
+        "city": "SEMIROM",
+        "code": "21350000"
+    },
+    {
+        "city": "SHAHINSHAHR",
+        "code": "21550000"
+    },
+    {
+        "city": "SHAHRABESFAHAN",
+        "code": "21322022"
+    },
+    {
+        "city": "SHAHREZA",
+        "code": "21390000"
+    },
+    {
+        "city": "ALAVICHEH",
+        "code": "21472022"
+    },
+    {
+        "city": "FEREYDUNSHAHR",
+        "code": "21370000"
+    },
+    {
+        "city": "FALAVARJAN",
+        "code": "21380000"
+    },
+    {
+        "city": "FULADSHAHR",
+        "code": "21451025"
+    },
+    {
+        "city": "KASHAN",
+        "code": "21420000"
+    },
+    {
+        "city": "KUHPAYEH",
+        "code": "21314000"
+    },
+    {
+        "city": "GOLPAYEGAN",
+        "code": "21440000"
+    },
+    {
+        "city": "GUGED",
+        "code": "21441021"
+    },
+    {
+        "city": "MALVAGERD",
+        "code": "21521025"
+    },
+    {
+        "city": "MOBARAKEH",
+        "code": "21520000"
+    },
+    {
+        "city": "MEYMEH",
+        "code": "21552000"
+    },
+    {
+        "city": "NAIN",
+        "code": "21460000"
+    },
+    {
+        "city": "NAJAFABAD",
+        "code": "21470000"
+    },
+    {
+        "city": "NATANZ",
+        "code": "21490000"
+    },
+    {
+        "city": "NEYASAR",
+        "code": "21422000"
+    },
+    {
+        "city": "VARZANEH",
+        "code": "21312021"
+    },
+    {
+        "city": "VIST",
+        "code": "21341022"
+    },
+    {
+        "city": "HARAND",
+        "code": "21313021"
+    },
+    {
+        "city": "ZARANJ",
+        "code": "125005"
+    },
+    {
+        "city": "KANDAHAR",
+        "code": "125003"
+    },
+    {
+        "city": "HARAT",
+        "code": "125006"
+    },
+    {
+        "city": "ESHTEHARD",
+        "code": "18350000"
+    },
+    {
+        "city": "ASARA",
+        "code": "18312000"
+    },
+    {
+        "city": "SHAHRAKETALEQAN",
+        "code": "18331021"
+    },
+    {
+        "city": "TALEQAN",
+        "code": "18330000"
+    },
+    {
+        "city": "KARAJ",
+        "code": "18310000"
+    },
+    {
+        "city": "KERDAN",
+        "code": "18311034"
+    },
+    {
+        "city": "KAMALABAD",
+        "code": "18311027"
+    },
+    {
+        "city": "MESHKINDASHT",
+        "code": "18311022"
+    },
+    {
+        "city": "NAZARABAD",
+        "code": "18340000"
+    },
+    {
+        "city": "HASHTGERD",
+        "code": "18321021"
+    },
+    {
+        "city": "ILAM",
+        "code": "83310000"
+    },
+    {
+        "city": "EYVAN",
+        "code": "83320000"
+    },
+    {
+        "city": "ABDANAN",
+        "code": "83340000"
+    },
+    {
+        "city": "BADREH",
+        "code": "83332000"
+    },
+    {
+        "city": "MEHRANBOUNDARYTERMINAL",
+        "code": "83371004"
+    },
+    {
+        "city": "DARREHSHAHR",
+        "code": "83330000"
+    },
+    {
+        "city": "DASHTEABBAS",
+        "code": "83353024"
+    },
+    {
+        "city": "DEHLORAN",
+        "code": "83350000"
+    },
+    {
+        "city": "SARABLEH",
+        "code": "83361023"
+    },
+    {
+        "city": "FAKKEH",
+        "code": "83353022"
+    },
+    {
+        "city": "LUMAR",
+        "code": "83391021"
+    },
+    {
+        "city": "MUSIAN",
+        "code": "83353000"
+    },
+    {
+        "city": "MEHRAN",
+        "code": "83370000"
+    },
+    {
+        "city": "OSKU",
+        "code": "26330000"
+    },
+    {
+        "city": "AHAR",
+        "code": "26340000"
+    },
+    {
+        "city": "ILKHCHI",
+        "code": "26332000"
+    },
+    {
+        "city": "ABISHAHMAD",
+        "code": "26473000"
+    },
+    {
+        "city": "AZARSHAHR",
+        "code": "26320000"
+    },
+    {
+        "city": "BASMANJ",
+        "code": "26311028"
+    },
+    {
+        "city": "BAKHSHAYESH",
+        "code": "26481024"
+    },
+    {
+        "city": "BOSTANABAD",
+        "code": "26440000"
+    },
+    {
+        "city": "BONAB",
+        "code": "26420000"
+    },
+    {
+        "city": "TABRIZ",
+        "code": "26310000"
+    },
+    {
+        "city": "TARK",
+        "code": "26394023"
+    },
+    {
+        "city": "TORKAMANCHAY",
+        "code": "26392000"
+    },
+    {
+        "city": "TASUJ",
+        "code": "26452023"
+    },
+    {
+        "city": "TEKMEHDASH",
+        "code": "26442000"
+    },
+    {
+        "city": "TIL",
+        "code": "26452022"
+    },
+    {
+        "city": "JANANLU",
+        "code": "26533021"
+    },
+    {
+        "city": "JOLFA",
+        "code": "26380000"
+    },
+    {
+        "city": "CHARUYMAQ",
+        "code": "26510000"
+    },
+    {
+        "city": "KHASABAD",
+        "code": "26332024"
+    },
+    {
+        "city": "KHAMANEH",
+        "code": "26451028"
+    },
+    {
+        "city": "KHODAAFARIN",
+        "code": "26530000"
+    },
+    {
+        "city": "KHARAJU",
+        "code": "26362021"
+    },
+    {
+        "city": "KHOSROWSHAHR",
+        "code": "26312000"
+    },
+    {
+        "city": "DUZDUZAN",
+        "code": "26352027"
+    },
+    {
+        "city": "DIZMAR",
+        "code": "26382021"
+    },
+    {
+        "city": "ZARNAQ",
+        "code": "26481023"
+    },
+    {
+        "city": "ZONUZ",
+        "code": "26371023"
+    },
+    {
+        "city": "SARAB",
+        "code": "26350000"
+    },
+    {
+        "city": "SAHAND",
+        "code": "26331024"
+    },
+    {
+        "city": "SIAHRUD",
+        "code": "26382000"
+    },
+    {
+        "city": "SHABESTAR",
+        "code": "26450000"
+    },
+    {
+        "city": "SHARABIAN",
+        "code": "26352023"
+    },
+    {
+        "city": "SHARAFKHANEH",
+        "code": "26451025"
+    },
+    {
+        "city": "SHENDABAD",
+        "code": "26451026"
+    },
+    {
+        "city": "SUFIAN",
+        "code": "26453000"
+    },
+    {
+        "city": "ASHEQLU",
+        "code": "26533022"
+    },
+    {
+        "city": "AJABSHIR",
+        "code": "26490000"
+    },
+    {
+        "city": "QARAHBOLAGH",
+        "code": "26393021"
+    },
+    {
+        "city": "GHARECHAMAN",
+        "code": "26442025"
+    },
+    {
+        "city": "QARAHAGHAJ",
+        "code": "26511021"
+    },
+    {
+        "city": "KORDKANDI",
+        "code": "26441028"
+    },
+    {
+        "city": "KALEYBAR",
+        "code": "26470000"
+    },
+    {
+        "city": "KUZEHKANAN",
+        "code": "26451024"
+    },
+    {
+        "city": "KOOHSAR",
+        "code": "26411027"
+    },
+    {
+        "city": "GUGAN",
+        "code": "26322000"
+    },
+    {
+        "city": "GOLBAF",
+        "code": "45315000"
+    },
+    {
+        "city": "GONBAR",
+        "code": "26331022"
+    },
+    {
+        "city": "LIQVAN",
+        "code": "26311030"
+    },
+    {
+        "city": "MARAGHEH",
+        "code": "26360000"
+    },
+    {
+        "city": "MARAND",
+        "code": "26370000"
+    },
+    {
+        "city": "MALEKAN",
+        "code": "26430000"
+    },
+    {
+        "city": "MAMQAN",
+        "code": "26321025"
+    },
+    {
+        "city": "MEHRABAN",
+        "code": "26352000"
+    },
+    {
+        "city": "MIANEH",
+        "code": "26390000"
+    },
+    {
+        "city": "VARZAQAN",
+        "code": "26520000"
+    },
+    {
+        "city": "HADISHAHR",
+        "code": "26381025"
+    },
+    {
+        "city": "HERIS",
+        "code": "26480000"
+    },
+    {
+        "city": "HASHTRUD",
+        "code": "26410000"
+    },
+    {
+        "city": "HURAND",
+        "code": "26344000"
+    },
+    {
+        "city": "YAMCHI",
+        "code": "26372000"
+    },
+    {
+        "city": "YEKANEKAHRIZ",
+        "code": "26372023"
+    },
+    {
+        "city": "URMIA",
+        "code": "57310000"
+    },
+    {
+        "city": "OSHNAVIEH",
+        "code": "57450000"
+    },
+    {
+        "city": "IVUGHLI",
+        "code": "57354000"
+    },
+    {
+        "city": "BAZARGAN",
+        "code": "57411021"
+    },
+    {
+        "city": "BORALAN",
+        "code": "57411026"
+    },
+    {
+        "city": "BUKAN",
+        "code": "57320000"
+    },
+    {
+        "city": "PASVEH",
+        "code": "57331027"
+    },
+    {
+        "city": "POLDASHT",
+        "code": "57470000"
+    },
+    {
+        "city": "PIRAN",
+        "code": "57331021"
+    },
+    {
+        "city": "PIRANSHAHR",
+        "code": "57330000"
+    },
+    {
+        "city": "TAKHTESOLEYMAN",
+        "code": "57342000"
+    },
+    {
+        "city": "TORKAMAN",
+        "code": "57311028"
+    },
+    {
+        "city": "TAKAB",
+        "code": "57340000"
+    },
+    {
+        "city": "TAMARCHIN",
+        "code": "57331029"
+    },
+    {
+        "city": "CHALDORAN",
+        "code": "57420000"
+    },
+    {
+        "city": "HAMZEBAN",
+        "code": "57351033"
+    },
+    {
+        "city": "KHOY",
+        "code": "57350000"
+    },
+    {
+        "city": "RABAT",
+        "code": "57361028"
+    },
+    {
+        "city": "ZAVIYEHWESTAZERBAIJAN",
+        "code": "57421022"
+    },
+    {
+        "city": "ZIVEH",
+        "code": "57314024"
+    },
+    {
+        "city": "SARDASHT",
+        "code": "57360000"
+    },
+    {
+        "city": "SEROW",
+        "code": "57315026"
+    },
+    {
+        "city": "SALMAS",
+        "code": "57370000"
+    },
+    {
+        "city": "SHAHINDEZH",
+        "code": "57380000"
+    },
+    {
+        "city": "SHOWT",
+        "code": "57480000"
+    },
+    {
+        "city": "QARAHZIAODDIN",
+        "code": "57461021"
+    },
+    {
+        "city": "QATUR",
+        "code": "57352000"
+    },
+    {
+        "city": "QUSHCHI",
+        "code": "57313021"
+    },
+    {
+        "city": "KEREFTO_WEST",
+        "code": "57341024"
+    },
+    {
+        "city": "KESHAVARZ",
+        "code": "57382000"
+    },
+    {
+        "city": "MAKU",
+        "code": "57410000"
+    },
+    {
+        "city": "MOHAMMADYAR",
+        "code": "57442000"
+    },
+    {
+        "city": "MAHMUDABAD_WEST",
+        "code": "57381023"
+    },
+    {
+        "city": "MOKHVOR",
+        "code": "57482023"
+    },
+    {
+        "city": "MARGANLAR",
+        "code": "57482021"
+    },
+    {
+        "city": "MAHABAD",
+        "code": "57390000"
+    },
+    {
+        "city": "MIANDOAB",
+        "code": "57430000"
+    },
+    {
+        "city": "MIRABAD",
+        "code": "57362022"
+    },
+    {
+        "city": "NAQADEH",
+        "code": "57440000"
+    },
+    {
+        "city": "NELAS",
+        "code": "57362023"
+    },
+    {
+        "city": "EMAMHASAN",
+        "code": "95382021"
+    },
+    {
+        "city": "AHROM",
+        "code": "95321021"
+    },
+    {
+        "city": "BASHI",
+        "code": "95322025"
+    },
+    {
+        "city": "BORAZJAN",
+        "code": "95341021"
+    },
+    {
+        "city": "BANDARBUSHEHR",
+        "code": "95310001"
+    },
+    {
+        "city": "DAYYER",
+        "code": "95330001"
+    },
+    {
+        "city": "BANDARRIG",
+        "code": "95372001"
+    },
+    {
+        "city": "BUSHEHR",
+        "code": "95310000"
+    },
+    {
+        "city": "JAM",
+        "code": "95390000"
+    },
+    {
+        "city": "CHOGHADAK",
+        "code": "95311023"
+    },
+    {
+        "city": "KHORMOJ",
+        "code": "95351021"
+    },
+    {
+        "city": "DALAKI",
+        "code": "95341025"
+    },
+    {
+        "city": "DASHTESTAN",
+        "code": "95340000"
+    },
+    {
+        "city": "DASHTI",
+        "code": "95350000"
+    },
+    {
+        "city": "DORAHAK",
+        "code": "95331022"
+    },
+    {
+        "city": "DEHRUD",
+        "code": "95344021"
+    },
+    {
+        "city": "DOHUK",
+        "code": "95351028"
+    },
+    {
+        "city": "DEYR",
+        "code": "95330000"
+    },
+    {
+        "city": "DEYLAM",
+        "code": "95380000"
+    },
+    {
+        "city": "SHABANKARE",
+        "code": "95343000"
+    },
+    {
+        "city": "ASALUYEH",
+        "code": "95410000"
+    },
+    {
+        "city": "KANGAN",
+        "code": "95360000"
+    },
+    {
+        "city": "KANGANBANDAR",
+        "code": "95360001"
+    },
+    {
+        "city": "GANAVEH",
+        "code": "95370000"
+    },
+    {
+        "city": "MEKABRI",
+        "code": "95343025"
+    },
+    {
+        "city": "NIBAND_BOSHEHR",
+        "code": "95412022"
+    },
+    {
+        "city": "NAKHLTAQI",
+        "code": "95411021"
+    },
+    {
+        "city": "ERZURUM",
+        "code": "117003"
+    },
+    {
+        "city": "ISPARTA",
+        "code": "117011"
+    },
+    {
+        "city": "ISTANBUL",
+        "code": "117002"
+    },
+    {
+        "city": "ANKARA",
+        "code": "117001"
+    },
+    {
+        "city": "TRABZON",
+        "code": "117008"
+    },
+    {
+        "city": "KONYA",
+        "code": "117012"
+    },
+    {
+        "city": "KAYSERI",
+        "code": "117009"
+    },
+    {
+        "city": "NEVSHEHIR",
+        "code": "117013"
+    },
+    {
+        "city": "VANTURKEY",
+        "code": "117004"
+    },
+    {
+        "city": "YUKSEKOVA",
+        "code": "117010"
+    },
+    {
+        "city": "ESLAMSHAHR",
+        "code": "11330000"
+    },
+    {
+        "city": "ANDISHEH",
+        "code": "11391035"
+    },
+    {
+        "city": "ABBARIK_TEHRAN",
+        "code": "11432022"
+    },
+    {
+        "city": "ABALI",
+        "code": "11342021"
+    },
+    {
+        "city": "BUMAHEN",
+        "code": "11481021"
+    },
+    {
+        "city": "PAKDASHT",
+        "code": "11440000"
+    },
+    {
+        "city": "PARDIS",
+        "code": "11480000"
+    },
+    {
+        "city": "POLUR",
+        "code": "11341030"
+    },
+    {
+        "city": "PISHVA",
+        "code": "11520000"
+    },
+    {
+        "city": "TEHRAN",
+        "code": "11320000"
+    },
+    {
+        "city": "JAJRUD",
+        "code": "11482000"
+    },
+    {
+        "city": "HASANABAD_TEHRAN",
+        "code": "11362021"
+    },
+    {
+        "city": "DAMAVAND",
+        "code": "11340000"
+    },
+    {
+        "city": "ROBATKARIM",
+        "code": "11410000"
+    },
+    {
+        "city": "RODHEN",
+        "code": "11342000"
+    },
+    {
+        "city": "RAY",
+        "code": "11360000"
+    },
+    {
+        "city": "SOLTANABAD",
+        "code": "11411027"
+    },
+    {
+        "city": "SENGAN",
+        "code": "11322022"
+    },
+    {
+        "city": "SHARIFABAD",
+        "code": "11442000"
+    },
+    {
+        "city": "SHAHRIAR",
+        "code": "11390000"
+    },
+    {
+        "city": "FERUNABAD",
+        "code": "11441022"
+    },
+    {
+        "city": "FIRUZKUH",
+        "code": "11350000"
+    },
+    {
+        "city": "QODS",
+        "code": "11460000"
+    },
+    {
+        "city": "QARCHAK",
+        "code": "11510000"
+    },
+    {
+        "city": "KAHRIZAK",
+        "code": "11363000"
+    },
+    {
+        "city": "GOLESTAN",
+        "code": "11492000"
+    },
+    {
+        "city": "LAVASANBOZORG",
+        "code": "11383021"
+    },
+    {
+        "city": "MELARD",
+        "code": "11470000"
+    },
+    {
+        "city": "NASIMSHAHR",
+        "code": "11491021"
+    },
+    {
+        "city": "VARAMIN",
+        "code": "11430000"
+    },
+    {
+        "city": "BAKI",
+        "code": "147001"
+    },
+    {
+        "city": "NAKHJAVAN",
+        "code": "147002"
+    },
+    {
+        "city": "BORUJEN",
+        "code": "77330000"
+    },
+    {
+        "city": "BEN",
+        "code": "77390000"
+    },
+    {
+        "city": "SAMAN",
+        "code": "77380000"
+    },
+    {
+        "city": "SORK",
+        "code": "77331023"
+    },
+    {
+        "city": "SHAHREKORD",
+        "code": "77310000"
+    },
+    {
+        "city": "FARSAN",
+        "code": "77340000"
+    },
+    {
+        "city": "کلار",
+        "code": "77351024"
+    },
+    {
+        "city": "LORDEGAN",
+        "code": "77350000"
+    },
+    {
+        "city": "ERESK",
+        "code": "33492000"
+    },
+    {
+        "city": "ASADIYEH",
+        "code": "33481021"
+    },
+    {
+        "city": "ESFEDAN",
+        "code": "33341031"
+    },
+    {
+        "city": "AYASK",
+        "code": "33461021"
+    },
+    {
+        "city": "BORUN",
+        "code": "33471023"
+    },
+    {
+        "city": "BOSHRUYEH",
+        "code": "33490000"
+    },
+    {
+        "city": "BIRJAND",
+        "code": "33310000"
+    },
+    {
+        "city": "BIHUD",
+        "code": "33341024"
+    },
+    {
+        "city": "HAJIABADEQAEN",
+        "code": "33343025"
+    },
+    {
+        "city": "KHEZRIDASHTBEYAZ",
+        "code": "33342021"
+    },
+    {
+        "city": "KHUSF",
+        "code": "33520000"
+    },
+    {
+        "city": "DOROKHSH",
+        "code": "33481022"
+    },
+    {
+        "city": "DEYHUK",
+        "code": "33512000"
+    },
+    {
+        "city": "ZOHAN",
+        "code": "33344000"
+    },
+    {
+        "city": "SADEQAEN",
+        "code": "33345000"
+    },
+    {
+        "city": "SARAYAN",
+        "code": "33460000"
+    },
+    {
+        "city": "SARBISHEH",
+        "code": "33330000"
+    },
+    {
+        "city": "SEHQALEH",
+        "code": "33462000"
+    },
+    {
+        "city": "SHAHRAKHT",
+        "code": "33343022"
+    },
+    {
+        "city": "TABAS",
+        "code": "33510000"
+    },
+    {
+        "city": "TABASEMASINA",
+        "code": "33482021"
+    },
+    {
+        "city": "FERDOWS",
+        "code": "33470000"
+    },
+    {
+        "city": "QAEN",
+        "code": "33340001"
+    },
+    {
+        "city": "QAENAT",
+        "code": "33340000"
+    },
+    {
+        "city": "QUHISTAN",
+        "code": "33483000"
+    },
+    {
+        "city": "KARGHOND",
+        "code": "33342023"
+    },
+    {
+        "city": "MOHAMMADABADEALAM",
+        "code": "33342024"
+    },
+    {
+        "city": "MEHRANKUSHK",
+        "code": "33471027"
+    },
+    {
+        "city": "NEHBANDAN",
+        "code": "33320000"
+    },
+    {
+        "city": "اشتین",
+        "code": "31722021"
+    },
+    {
+        "city": "ANABAD",
+        "code": "31532000"
+    },
+    {
+        "city": "AVANDAR",
+        "code": "31543026"
+    },
+    {
+        "city": "BAJGIRAN",
+        "code": "31522000"
+    },
+    {
+        "city": "BAKHEZR",
+        "code": "31720000"
+    },
+    {
+        "city": "BASHTIN",
+        "code": "31732000"
+    },
+    {
+        "city": "BAJESTAN",
+        "code": "31660000"
+    },
+    {
+        "city": "BARDASKAN",
+        "code": "31530000"
+    },
+    {
+        "city": "BARAS",
+        "code": "31386023"
+    },
+    {
+        "city": "BOZGHAN",
+        "code": "31681022"
+    },
+    {
+        "city": "بق  مچ",
+        "code": "31391023"
+    },
+    {
+        "city": "BANYTAK",
+        "code": "31373027"
+    },
+    {
+        "city": "BINALOOD",
+        "code": "31670000"
+    },
+    {
+        "city": "TAYBAD",
+        "code": "31360000"
+    },
+    {
+        "city": "TORBATEJAM",
+        "code": "31370000"
+    },
+    {
+        "city": "TORBATEHEYDARIEH",
+        "code": "31380000"
+    },
+    {
+        "city": "JOGHATAI",
+        "code": "31640000"
+    },
+    {
+        "city": "JANGAL",
+        "code": "31592000"
+    },
+    {
+        "city": "CHENARAN",
+        "code": "31390000"
+    },
+    {
+        "city": "KHALILABAD",
+        "code": "31620000"
+    },
+    {
+        "city": "KHVAF",
+        "code": "31410000"
+    },
+    {
+        "city": "دافی",
+        "code": "31691027"
+    },
+    {
+        "city": "DAVARZAN",
+        "code": "31730000"
+    },
+    {
+        "city": "DARGAZ",
+        "code": "31420000"
+    },
+    {
+        "city": "DORUDEKHORASAN",
+        "code": "31573021"
+    },
+    {
+        "city": "درونگر",
+        "code": "31424021"
+    },
+    {
+        "city": "DOGHAYI",
+        "code": "31521025"
+    },
+    {
+        "city": "DOWLATABADEKHORASAN",
+        "code": "31691025"
+    },
+    {
+        "city": "DIZBAD",
+        "code": "31311034"
+    },
+    {
+        "city": "ROBATESANG",
+        "code": "31387023"
+    },
+    {
+        "city": "ROSHTKHAR",
+        "code": "31590000"
+    },
+    {
+        "city": "RUDAB",
+        "code": "31435000"
+    },
+    {
+        "city": "RUSHNAVAND",
+        "code": "31551025"
+    },
+    {
+        "city": "RIVASH",
+        "code": "31543025"
+    },
+    {
+        "city": "ZIBAD",
+        "code": "31552021"
+    },
+    {
+        "city": "ZEYNABAD",
+        "code": "31661022"
+    },
+    {
+        "city": "SABZEVAR",
+        "code": "31430000"
+    },
+    {
+        "city": "SARAKHS",
+        "code": "31440000"
+    },
+    {
+        "city": "SEFIDSANG",
+        "code": "31482021"
+    },
+    {
+        "city": "SOLTANABADEKHORASAN",
+        "code": "31391024"
+    },
+    {
+        "city": "SANGBAST",
+        "code": "31481023"
+    },
+    {
+        "city": "SANGAN",
+        "code": "31412000"
+    },
+    {
+        "city": "SHESHTOMAD",
+        "code": "31436000"
+    },
+    {
+        "city": "SHAMABAD",
+        "code": "31711022"
+    },
+    {
+        "city": "SHAHRABAD",
+        "code": "31531022"
+    },
+    {
+        "city": "SHIRTAPEH",
+        "code": "31441027"
+    },
+    {
+        "city": "SALEHABAD",
+        "code": "31373000"
+    },
+    {
+        "city": "FADISHEH",
+        "code": "31575025"
+    },
+    {
+        "city": "FARHADGERD",
+        "code": "31481024"
+    },
+    {
+        "city": "FARIMAN",
+        "code": "31480000"
+    },
+    {
+        "city": "FIRUZEH",
+        "code": "31680000"
+    },
+    {
+        "city": "FEYZABAD",
+        "code": "31611021"
+    },
+    {
+        "city": "QADAMGAH",
+        "code": "31573022"
+    },
+    {
+        "city": "QUCHAN",
+        "code": "31520000"
+    },
+    {
+        "city": "KAKHK",
+        "code": "31552000"
+    },
+    {
+        "city": "KASHMAR",
+        "code": "31540000"
+    },
+    {
+        "city": "KALESHUR",
+        "code": "31551028"
+    },
+    {
+        "city": "کاهو",
+        "code": "31421023"
+    },
+    {
+        "city": "کبکان",
+        "code": "31422023"
+    },
+    {
+        "city": "KABUDAN",
+        "code": "31531024"
+    },
+    {
+        "city": "KADKAN",
+        "code": "31386000"
+    },
+    {
+        "city": "KARIZ",
+        "code": "31543027"
+    },
+    {
+        "city": "KALAT",
+        "code": "31630000"
+    },
+    {
+        "city": "KONDORKASHMAR",
+        "code": "31622021"
+    },
+    {
+        "city": "GOLBAHAR",
+        "code": "31392000"
+    },
+    {
+        "city": "GONABAD",
+        "code": "31550000"
+    },
+    {
+        "city": "MAZDAVAND",
+        "code": "31442021"
+    },
+    {
+        "city": "MASHHAD",
+        "code": "31310000"
+    },
+    {
+        "city": "NASAR",
+        "code": "31387022"
+    },
+    {
+        "city": "NEQAB",
+        "code": "31651021"
+    },
+    {
+        "city": "NISHAPUR",
+        "code": "31570000"
+    },
+    {
+        "city": "HEMMATABAD",
+        "code": "31682021"
+    },
+    {
+        "city": "ESFARAYEN",
+        "code": "32340000"
+    },
+    {
+        "city": "ایوب  بجنورد",
+        "code": "32311031"
+    },
+    {
+        "city": "IVAR",
+        "code": "32371024"
+    },
+    {
+        "city": "ASHKHANEH",
+        "code": "32331021"
+    },
+    {
+        "city": "BAAM",
+        "code": "32342000"
+    },
+    {
+        "city": "BOJNORD",
+        "code": "32310000"
+    },
+    {
+        "city": "BUJNOURDPETROCHEMICAL",
+        "code": "32311005"
+    },
+    {
+        "city": "JAJROM",
+        "code": "32320000"
+    },
+    {
+        "city": "JOZAK",
+        "code": "32331032"
+    },
+    {
+        "city": "CHAMANBID",
+        "code": "32331031"
+    },
+    {
+        "city": "RAZ",
+        "code": "32312000"
+    },
+    {
+        "city": "SHIRVAN",
+        "code": "32350000"
+    },
+    {
+        "city": "SAFIABAD",
+        "code": "32342021"
+    },
+    {
+        "city": "FARUJ",
+        "code": "32360000"
+    },
+    {
+        "city": "BOJNORDCEMENTFACTORY",
+        "code": "32311004"
+    },
+    {
+        "city": "GARMEH",
+        "code": "32370000"
+    },
+    {
+        "city": "میان  دشت",
+        "code": "32321022"
+    },
+    {
+        "city": "ALVAN",
+        "code": "36422022"
+    },
+    {
+        "city": "ELHAYI",
+        "code": "36311030"
+    },
+    {
+        "city": "OMIDIYEH",
+        "code": "36470000"
+    },
+    {
+        "city": "ANDIMESHK",
+        "code": "36330000"
+    },
+    {
+        "city": "AHVAZ",
+        "code": "36310000"
+    },
+    {
+        "city": "IZEH",
+        "code": "36340000"
+    },
+    {
+        "city": "ABADAN",
+        "code": "36320000"
+    },
+    {
+        "city": "BAGHEMALEK",
+        "code": "36350000"
+    },
+    {
+        "city": "BOSTAN",
+        "code": "36432000"
+    },
+    {
+        "city": "BANDAREEMAMKHOMEYNI",
+        "code": "36362000"
+    },
+    {
+        "city": "BANDAREMAHSHAHR",
+        "code": "36360001"
+    },
+    {
+        "city": "BEHBAHAN",
+        "code": "36370000"
+    },
+    {
+        "city": "CHAZZABEBOUNDARYTERMINAL",
+        "code": "36431004"
+    },
+    {
+        "city": "SHALAMCHEHBOUNDARYTERMINAL",
+        "code": "36381004"
+    },
+    {
+        "city": "CHAZABEH",
+        "code": "36432025"
+    },
+    {
+        "city": "SHEIKHKHALAF",
+        "code": "36421034"
+    },
+    {
+        "city": "HOSSEINIEH ",
+        "code": "36332021"
+    },
+    {
+        "city": "HAMIDIYEH",
+        "code": "36580000"
+    },
+    {
+        "city": "KHORRAMSHAHR",
+        "code": "36380000"
+    },
+    {
+        "city": "DEZFUL",
+        "code": "36390000"
+    },
+    {
+        "city": "RAMHORMOZ",
+        "code": "36440000"
+    },
+    {
+        "city": "SARBANDAR",
+        "code": "36362021"
+    },
+    {
+        "city": "SORKHEH ",
+        "code": "36421021"
+    },
+    {
+        "city": "SARODASHTZEYDON",
+        "code": "36373022"
+    },
+    {
+        "city": "SUSANGERD",
+        "code": "36431021"
+    },
+    {
+        "city": "SEYYEDABBAS",
+        "code": "36422024"
+    },
+    {
+        "city": "SHADEGAN",
+        "code": "36410000"
+    },
+    {
+        "city": "SHAVUR ",
+        "code": "36422000"
+    },
+    {
+        "city": "SHALAMCHEH",
+        "code": "36381025"
+    },
+    {
+        "city": "SHUSH",
+        "code": "36420000"
+    },
+    {
+        "city": "SHUSHTAR",
+        "code": "36450000"
+    },
+    {
+        "city": "KARUN",
+        "code": "36570000"
+    },
+    {
+        "city": "GOTVAND",
+        "code": "36510000"
+    },
+    {
+        "city": "MALAQA",
+        "code": "36351028"
+    },
+    {
+        "city": "MAHSHAHR",
+        "code": "36360000"
+    },
+    {
+        "city": "MASJEDSOLEYMAN",
+        "code": "36460000"
+    },
+    {
+        "city": "MIYANAB",
+        "code": "36451026"
+    },
+    {
+        "city": "MIANRUD",
+        "code": "36391028"
+    },
+    {
+        "city": "HAFTTEPE",
+        "code": "36421029"
+    },
+    {
+        "city": "HAFTKEL",
+        "code": "36540000"
+    },
+    {
+        "city": "HENDIJAN",
+        "code": "36480000"
+    },
+    {
+        "city": "HOVEYZEH ",
+        "code": "36530000"
+    },
+    {
+        "city": "ABHAR",
+        "code": "67350000"
+    },
+    {
+        "city": "BIZINEHRUD",
+        "code": "67374000"
+    },
+    {
+        "city": "KHODABANDEH",
+        "code": "67370000"
+    },
+    {
+        "city": "KHORRAMDARREH",
+        "code": "67360000"
+    },
+    {
+        "city": "دندی",
+        "code": "67342021"
+    },
+    {
+        "city": "ZARRINABAD",
+        "code": "67321021"
+    },
+    {
+        "city": "ZANJAN",
+        "code": "67310000"
+    },
+    {
+        "city": "SARCHAM",
+        "code": "67341028"
+    },
+    {
+        "city": "سلطانیه",
+        "code": "67352000"
+    },
+    {
+        "city": "TAROM",
+        "code": "67330000"
+    },
+    {
+        "city": "QEYDAR",
+        "code": "67370001"
+    },
+    {
+        "city": "GARMAB",
+        "code": "67373022"
+    },
+    {
+        "city": "MAHNESHAN",
+        "code": "67340000"
+    },
+    {
+        "city": "HIDAJ",
+        "code": "67351028"
+    },
+    {
+        "city": "EYVANKI",
+        "code": "87343000"
+    },
+    {
+        "city": "BEYARJOMAND",
+        "code": "87333000"
+    },
+    {
+        "city": "DAMGHAN",
+        "code": "87320000"
+    },
+    {
+        "city": "SORKHE",
+        "code": "87360000"
+    },
+    {
+        "city": "SEMNAN",
+        "code": "87310000"
+    },
+    {
+        "city": "SEYYEDABAD",
+        "code": "87361024"
+    },
+    {
+        "city": "SHAHRUD",
+        "code": "87330000"
+    },
+    {
+        "city": "SHAHMIRZAD",
+        "code": "87352000"
+    },
+    {
+        "city": "FORUMAD",
+        "code": "87371021"
+    },
+    {
+        "city": "GARMSAR",
+        "code": "87340000"
+    },
+    {
+        "city": "MOALLEMAN",
+        "code": "87333024"
+    },
+    {
+        "city": "MEHDISHAHR",
+        "code": "87350000"
+    },
+    {
+        "city": "MEYAMI ",
+        "code": "87370000"
+    },
+    {
+        "city": "IRANSHAHR",
+        "code": "61320000"
+    },
+    {
+        "city": "BAZMAN",
+        "code": "61322000"
+    },
+    {
+        "city": "TALLESIAH",
+        "code": "61313033"
+    },
+    {
+        "city": "TANGCHABAHAR",
+        "code": "61331030"
+    },
+    {
+        "city": "JEKIGOR",
+        "code": "61382021"
+    },
+    {
+        "city": "CHABAHAR",
+        "code": "61330000"
+    },
+    {
+        "city": "CHAHEZARD",
+        "code": "61311041"
+    },
+    {
+        "city": "CHESHMEHSHUR",
+        "code": "61313030"
+    },
+    {
+        "city": "KHASH",
+        "code": "61340000"
+    },
+    {
+        "city": "ریمدان",
+        "code": "61333034"
+    },
+    {
+        "city": "ZABOL",
+        "code": "61350000"
+    },
+    {
+        "city": "ZABOLI",
+        "code": "61450000"
+    },
+    {
+        "city": "ZAHEDAN",
+        "code": "61310000"
+    },
+    {
+        "city": "ZEHAK",
+        "code": "61410000"
+    },
+    {
+        "city": "SARAVAN",
+        "code": "61360000"
+    },
+    {
+        "city": "SARBAZ",
+        "code": "61380000"
+    },
+    {
+        "city": "SURAN",
+        "code": "61441021"
+    },
+    {
+        "city": "TIS",
+        "code": "61331025"
+    },
+    {
+        "city": "FANUJ",
+        "code": "61373000"
+    },
+    {
+        "city": "کارخانه  سیمان  زابل",
+        "code": "61351004"
+    },
+    {
+        "city": "کارواندر",
+        "code": "61341026"
+    },
+    {
+        "city": "KONARAK",
+        "code": "61390000"
+    },
+    {
+        "city": "GARAGHEH",
+        "code": "61313024"
+    },
+    {
+        "city": "GASHT",
+        "code": "61361021"
+    },
+    {
+        "city": "MUMAN",
+        "code": "61331024"
+    },
+    {
+        "city": "MIRJAVEH",
+        "code": "61480000"
+    },
+    {
+        "city": "MILAK",
+        "code": "61431026"
+    },
+    {
+        "city": "NOSRATABAD",
+        "code": "61313000"
+    },
+    {
+        "city": "NEGOR",
+        "code": "61333021"
+    },
+    {
+        "city": "NOWBANDIAN",
+        "code": "61333022"
+    },
+    {
+        "city": "NOKABAD",
+        "code": "61342000"
+    },
+    {
+        "city": "NIKSHAHR",
+        "code": "61370000"
+    },
+    {
+        "city": "نیمروز",
+        "code": "61470000"
+    },
+    {
+        "city": "ARBIL",
+        "code": "114002"
+    },
+    {
+        "city": "SOLEYMANIYEH",
+        "code": "114003"
+    },
+    {
+        "city": "KARBALA",
+        "code": "114004"
+    },
+    {
+        "city": "NAJAF",
+        "code": "114008"
+    },
+    {
+        "city": "ARSENJAN",
+        "code": "41420000"
+    },
+    {
+        "city": "ESTAHBAN",
+        "code": "41350000"
+    },
+    {
+        "city": "ASHKENAN",
+        "code": "41472000"
+    },
+    {
+        "city": "EQLID",
+        "code": "41360000"
+    },
+    {
+        "city": "EVAZ",
+        "code": "41593000"
+    },
+    {
+        "city": "اهل",
+        "code": "41472021"
+    },
+    {
+        "city": "IZADKHASTABADEH",
+        "code": "41321023"
+    },
+    {
+        "city": "ABADEH",
+        "code": "41320000"
+    },
+    {
+        "city": "BABAMEYDAN",
+        "code": "41491033"
+    },
+    {
+        "city": "BEYRAM",
+        "code": "41592000"
+    },
+    {
+        "city": "جلیان",
+        "code": "41414021"
+    },
+    {
+        "city": "جنت  شهر",
+        "code": "41381021"
+    },
+    {
+        "city": "جنگل  فسا",
+        "code": "41411022"
+    },
+    {
+        "city": "JAHROM",
+        "code": "41370000"
+    },
+    {
+        "city": "CHENARSHAHIJAN",
+        "code": "41444025"
+    },
+    {
+        "city": "حاجی  آباد (فارس )",
+        "code": "41510000"
+    },
+    {
+        "city": "HOSSEINABAD",
+        "code": "41521023"
+    },
+    {
+        "city": "خشت",
+        "code": "41443000"
+    },
+    {
+        "city": "خفر",
+        "code": "41372000"
+    },
+    {
+        "city": "KHANJ",
+        "code": "41540000"
+    },
+    {
+        "city": "DARAB",
+        "code": "41380000"
+    },
+    {
+        "city": "زرین دشت (حاجی آباد)",
+        "code": "41510001"
+    },
+    {
+        "city": "SAROSTAN",
+        "code": "41560000"
+    },
+    {
+        "city": "SAADATSHAHR",
+        "code": "41551021"
+    },
+    {
+        "city": "SURMAQ",
+        "code": "41321025"
+    },
+    {
+        "city": "SIVAND",
+        "code": "41482025"
+    },
+    {
+        "city": "ششده",
+        "code": "41412000"
+    },
+    {
+        "city": "SHURIJEH",
+        "code": "41561022"
+    },
+    {
+        "city": "SHIRAZ",
+        "code": "41310000"
+    },
+    {
+        "city": "ELAMORODASHT",
+        "code": "41473000"
+    },
+    {
+        "city": "FARASHBAND",
+        "code": "41520000"
+    },
+    {
+        "city": "FASA",
+        "code": "41410000"
+    },
+    {
+        "city": "FIRUZABAD",
+        "code": "41430000"
+    },
+    {
+        "city": "GHAEMIYEH",
+        "code": "41441021"
+    },
+    {
+        "city": "قطب  آباد (فارس )",
+        "code": "41374021"
+    },
+    {
+        "city": "QATRUYEH",
+        "code": "41452021"
+    },
+    {
+        "city": "GHIROKARZIN",
+        "code": "41530000"
+    },
+    {
+        "city": "KAZERUN",
+        "code": "41440000"
+    },
+    {
+        "city": "کمارج",
+        "code": "41443022"
+    },
+    {
+        "city": "KENARTAKHTEH",
+        "code": "41443021"
+    },
+    {
+        "city": "کوهنجان",
+        "code": "41562000"
+    },
+    {
+        "city": "GERASH",
+        "code": "41590000"
+    },
+    {
+        "city": "GALEDAR",
+        "code": "41572000"
+    },
+    {
+        "city": "LARESTAN",
+        "code": "41460000"
+    },
+    {
+        "city": "LAMERD",
+        "code": "41470000"
+    },
+    {
+        "city": "LAYZANGAN",
+        "code": "41383023"
+    },
+    {
+        "city": "MARVDASHT",
+        "code": "41480000"
+    },
+    {
+        "city": "MOHR",
+        "code": "41570000"
+    },
+    {
+        "city": "NURABAD",
+        "code": "41491021"
+    },
+    {
+        "city": "NEYRIZ",
+        "code": "41450000"
+    },
+    {
+        "city": "ARDAK",
+        "code": "15325022"
+    },
+    {
+        "city": "EQBALIYEH",
+        "code": "15311021"
+    },
+    {
+        "city": "ALMUTBALA",
+        "code": "15313000"
+    },
+    {
+        "city": "ALVAND",
+        "code": "15351021"
+    },
+    {
+        "city": "ABTORSH",
+        "code": "15311031"
+    },
+    {
+        "city": "ABGARMAVJ",
+        "code": "15362000"
+    },
+    {
+        "city": "ABYEK",
+        "code": "15340000"
+    },
+    {
+        "city": "ARASANJ",
+        "code": "15321028"
+    },
+    {
+        "city": "AQABABA",
+        "code": "15311030"
+    },
+    {
+        "city": "AVAJ",
+        "code": "15360000"
+    },
+    {
+        "city": "BUINZAHRA",
+        "code": "15320000"
+    },
+    {
+        "city": "TAKESTAN",
+        "code": "15330000"
+    },
+    {
+        "city": "DANESFAHAN",
+        "code": "15323022"
+    },
+    {
+        "city": "زیاران",
+        "code": "15341021"
+    },
+    {
+        "city": "SHAL",
+        "code": "15324000"
+    },
+    {
+        "city": "ضیاء آباد",
+        "code": "15333000"
+    },
+    {
+        "city": "QAZVIN",
+        "code": "15310000"
+    },
+    {
+        "city": "KUHIN",
+        "code": "15311029"
+    },
+    {
+        "city": "NAHAVANDGHAZVIN",
+        "code": "15334021"
+    },
+    {
+        "city": "JAFARIYEH",
+        "code": "14312021"
+    },
+    {
+        "city": "DASTJERD",
+        "code": "14313021"
+    },
+    {
+        "city": "SALAFCHEGAN",
+        "code": "14311022"
+    },
+    {
+        "city": "GHAHAN",
+        "code": "14313022"
+    },
+    {
+        "city": "QOM",
+        "code": "14310000"
+    },
+    {
+        "city": "KAHAK",
+        "code": "14314023"
+    },
+    {
+        "city": "BASHMAGH",
+        "code": "73371031"
+    },
+    {
+        "city": "BANEH",
+        "code": "73320000"
+    },
+    {
+        "city": "BIJAR",
+        "code": "73330000"
+    },
+    {
+        "city": "DEHGOLAN",
+        "code": "73410000"
+    },
+    {
+        "city": "DIVANDARREH",
+        "code": "73350000"
+    },
+    {
+        "city": "SAQQEZ",
+        "code": "73340000"
+    },
+    {
+        "city": "SANANDAJ",
+        "code": "73310000"
+    },
+    {
+        "city": "QORVEH",
+        "code": "73360000"
+    },
+    {
+        "city": "KAMYARAN",
+        "code": "73380000"
+    },
+    {
+        "city": "KEREFTO",
+        "code": "73352000"
+    },
+    {
+        "city": "MARIVAN",
+        "code": "73370000"
+    },
+    {
+        "city": "ARZUIYEH",
+        "code": "45530000"
+    },
+    {
+        "city": "OSTANKERMAN",
+        "code": "45000000"
+    },
+    {
+        "city": "ESTUR",
+        "code": "45391039"
+    },
+    {
+        "city": "ESLAMABADJIROFT",
+        "code": "45361023"
+    },
+    {
+        "city": "ESLAMABADEKERMAN",
+        "code": "46440000"
+    },
+    {
+        "city": "ANAR",
+        "code": "45520000"
+    },
+    {
+        "city": "BAGHIN",
+        "code": "45311022"
+    },
+    {
+        "city": "BAFT",
+        "code": "45330000"
+    },
+    {
+        "city": "BARDSIR",
+        "code": "45340000"
+    },
+    {
+        "city": "BAM",
+        "code": "45350000"
+    },
+    {
+        "city": "BAVANAT",
+        "code": "41340000"
+    },
+    {
+        "city": "PARIZ",
+        "code": "45392000"
+    },
+    {
+        "city": "JALALABADZARAND",
+        "code": "45381031"
+    },
+    {
+        "city": "JIROFT",
+        "code": "45360000"
+    },
+    {
+        "city": "چهارگنبد",
+        "code": "45391025"
+    },
+    {
+        "city": "DEHAJ",
+        "code": "45411021"
+    },
+    {
+        "city": "RABR",
+        "code": "45490000"
+    },
+    {
+        "city": "RAVAR",
+        "code": "45320000"
+    },
+    {
+        "city": "RAYEN",
+        "code": "45313000"
+    },
+    {
+        "city": "ROSTAMABAD",
+        "code": "45511025"
+    },
+    {
+        "city": "RAFSANJAN",
+        "code": "45370000"
+    },
+    {
+        "city": "RUDBAREKERMAN",
+        "code": "45440000"
+    },
+    {
+        "city": "ZARAND",
+        "code": "45380000"
+    },
+    {
+        "city": "زهکلوت",
+        "code": "45442021"
+    },
+    {
+        "city": "SARCHESHMEH",
+        "code": "45371023"
+    },
+    {
+        "city": "SIRJAN",
+        "code": "45390000"
+    },
+    {
+        "city": "SHAHDAD",
+        "code": "45314000"
+    },
+    {
+        "city": "SHAHREBABAK",
+        "code": "45410000"
+    },
+    {
+        "city": "ANBARABAD",
+        "code": "45470000"
+    },
+    {
+        "city": "FARYAB",
+        "code": "45550000"
+    },
+    {
+        "city": "GHALEHGANJ",
+        "code": "45450000"
+    },
+    {
+        "city": "کبوترخان",
+        "code": "45371031"
+    },
+    {
+        "city": "KERMAN",
+        "code": "45310000"
+    },
+    {
+        "city": "KUHBANAN",
+        "code": "45460000"
+    },
+    {
+        "city": "KOHPAYEHKERMAN",
+        "code": "45311028"
+    },
+    {
+        "city": "KAHNUJ",
+        "code": "45420000"
+    },
+    {
+        "city": "GOLZAR",
+        "code": "45341021"
+    },
+    {
+        "city": "MAHAN",
+        "code": "45316000"
+    },
+    {
+        "city": "MAHMODABADSIR",
+        "code": "45391031"
+    },
+    {
+        "city": "معدن  گل  گهر",
+        "code": "45391004"
+    },
+    {
+        "city": "MADAN-JALALABAD",
+        "code": "45381006"
+    },
+    {
+        "city": "MADANDERALO",
+        "code": "45341004"
+    },
+    {
+        "city": "MANUJAN",
+        "code": "45430000"
+    },
+    {
+        "city": "NARMASHIR",
+        "code": "45540000"
+    },
+    {
+        "city": "NOWDEZH",
+        "code": "45432022"
+    },
+    {
+        "city": "ESLAMABADEGHARB",
+        "code": "71320000"
+    },
+    {
+        "city": "PAWEH",
+        "code": "71330000"
+    },
+    {
+        "city": "KHOSRAVIBOUNDARYTERMINAL",
+        "code": "71371008"
+    },
+    {
+        "city": "JAVANRUD",
+        "code": "71340000"
+    },
+    {
+        "city": "KHOSRAVY",
+        "code": "71371022"
+    },
+    {
+        "city": "RAVANSAR",
+        "code": "71440000"
+    },
+    {
+        "city": "SARPOLEZAHAB",
+        "code": "71350000"
+    },
+    {
+        "city": "SONQOR",
+        "code": "71360000"
+    },
+    {
+        "city": "سومار",
+        "code": "71372000"
+    },
+    {
+        "city": "SAHNEH",
+        "code": "71380000"
+    },
+    {
+        "city": "QASRESHIRIN",
+        "code": "71370000"
+    },
+    {
+        "city": "KERMANSHAH",
+        "code": "71310000"
+    },
+    {
+        "city": "KERENDEGHARB",
+        "code": "71451021"
+    },
+    {
+        "city": "KANGAVAR",
+        "code": "71390000"
+    },
+    {
+        "city": "KAHRIZ",
+        "code": "71361032"
+    },
+    {
+        "city": "GILANEGHARB",
+        "code": "71410000"
+    },
+    {
+        "city": "HARSIN",
+        "code": "71420000"
+    },
+    {
+        "city": "BIBIHAKIMEH",
+        "code": "85331025"
+    },
+    {
+        "city": "PATAVEH",
+        "code": "85342000"
+    },
+    {
+        "city": "DOGONBADAN",
+        "code": "85330001"
+    },
+    {
+        "city": "DEHDASHT",
+        "code": "85320001"
+    },
+    {
+        "city": "GACHSARAN",
+        "code": "85330000"
+    },
+    {
+        "city": "BOYERAHMAD",
+        "code": "85310000"
+    },
+    {
+        "city": "یاسوج  (بویراحمد)",
+        "code": "85310001"
+    },
+    {
+        "city": "BATUMI",
+        "code": "148002"
+    },
+    {
+        "city": "TEFLIS",
+        "code": "148001"
+    },
+    {
+        "city": "INCHEBORON",
+        "code": "97353021"
+    },
+    {
+        "city": "AZADSHAHR",
+        "code": "97390000"
+    },
+    {
+        "city": "AQQALA",
+        "code": "97380000"
+    },
+    {
+        "city": "BANDARTORKAMAN",
+        "code": "97320000"
+    },
+    {
+        "city": "BANDAREGAZ",
+        "code": "97370000"
+    },
+    {
+        "city": "ترکمن",
+        "code": "97320001"
+    },
+    {
+        "city": "KHANBEBIN",
+        "code": "97412021"
+    },
+    {
+        "city": "دلند",
+        "code": "97411021"
+    },
+    {
+        "city": "RAMIAN",
+        "code": "97410000"
+    },
+    {
+        "city": "ALIABAD",
+        "code": "97330000"
+    },
+    {
+        "city": "قرق",
+        "code": "97313023"
+    },
+    {
+        "city": "KORDKUY",
+        "code": "97340000"
+    },
+    {
+        "city": "KALALEH",
+        "code": "97420000"
+    },
+    {
+        "city": "GALIKASH",
+        "code": "97450000"
+    },
+    {
+        "city": "GORGAN",
+        "code": "97310000"
+    },
+    {
+        "city": "GONBADEKAVUS",
+        "code": "97350000"
+    },
+    {
+        "city": "MARAVEHTAPPEH",
+        "code": "97430000"
+    },
+    {
+        "city": "MINUDASHT",
+        "code": "97360000"
+    },
+    {
+        "city": "NUKANDEH",
+        "code": "97372000"
+    },
+    {
+        "city": "ASALEM",
+        "code": "54392000"
+    },
+    {
+        "city": "OSTANGILAN",
+        "code": "54000000"
+    },
+    {
+        "city": "AMLASH",
+        "code": "54370000"
+    },
+    {
+        "city": "ASTARA",
+        "code": "54320000"
+    },
+    {
+        "city": "ASTANEHYEASHRAFIYEH",
+        "code": "54340000"
+    },
+    {
+        "city": "BANDAREANZALI",
+        "code": "54330000"
+    },
+    {
+        "city": "BANDARKIASHAHR",
+        "code": "54342001"
+    },
+    {
+        "city": "PAREHSAR",
+        "code": "54412000"
+    },
+    {
+        "city": "TOTKABN",
+        "code": "54352022"
+    },
+    {
+        "city": "CHABOKSAR",
+        "code": "54363000"
+    },
+    {
+        "city": "CHUBAR",
+        "code": "54442021"
+    },
+    {
+        "city": "KHALEHSARAY",
+        "code": "54392021"
+    },
+    {
+        "city": "KHOSHKEBIJAR",
+        "code": "54313000"
+    },
+    {
+        "city": "KHOMAM",
+        "code": "54312000"
+    },
+    {
+        "city": "DEYLAMAN",
+        "code": "54462000"
+    },
+    {
+        "city": "RAHIMABAD",
+        "code": "54364000"
+    },
+    {
+        "city": "ROSTAMABAD",
+        "code": "54351022"
+    },
+    {
+        "city": "RASHT",
+        "code": "54310000"
+    },
+    {
+        "city": "REZVANSHAHR",
+        "code": "54410000"
+    },
+    {
+        "city": "RUDBAR",
+        "code": "54350000"
+    },
+    {
+        "city": "RUDSAR",
+        "code": "54360000"
+    },
+    {
+        "city": "SARAVANGILAN",
+        "code": "54314022"
+    },
+    {
+        "city": "SANGAR",
+        "code": "54314000"
+    },
+    {
+        "city": "SIAHKAL",
+        "code": "54460000"
+    },
+    {
+        "city": "SHAFT",
+        "code": "54440000"
+    },
+    {
+        "city": "SHALMAN",
+        "code": "54472021"
+    },
+    {
+        "city": "SOWMEEHSARA",
+        "code": "54380000"
+    },
+    {
+        "city": "FUMAN",
+        "code": "54430000"
+    },
+    {
+        "city": "GHALEHRODKHAN",
+        "code": "54431034"
+    },
+    {
+        "city": "KELACHAY",
+        "code": "54362000"
+    },
+    {
+        "city": "KUCHESFAHAN",
+        "code": "54315000"
+    },
+    {
+        "city": "KIASHAHR",
+        "code": "54342000"
+    },
+    {
+        "city": "GARMABCHESHMEH",
+        "code": "54351032"
+    },
+    {
+        "city": "GURABZARMIKH",
+        "code": "54382021"
+    },
+    {
+        "city": "LAHIJAN",
+        "code": "54450000"
+    },
+    {
+        "city": "LASHTENESHA",
+        "code": "54316000"
+    },
+    {
+        "city": "LANGARUD",
+        "code": "54470000"
+    },
+    {
+        "city": "LOWSHAN",
+        "code": "54351023"
+    },
+    {
+        "city": "LULEMAN",
+        "code": "52315022"
+    },
+    {
+        "city": "LAVANDEVIL",
+        "code": "54321023"
+    },
+    {
+        "city": "LISAR",
+        "code": "54393022"
+    },
+    {
+        "city": "MASAL",
+        "code": "54420000"
+    },
+    {
+        "city": "MASULEH",
+        "code": "54431021"
+    },
+    {
+        "city": "MANJIL",
+        "code": "54351021"
+    },
+    {
+        "city": "HASHTPAR",
+        "code": "54391021"
+    },
+    {
+        "city": "AZNA",
+        "code": "81350000"
+    },
+    {
+        "city": "OSHTORINAN",
+        "code": "81362000"
+    },
+    {
+        "city": "ALESHTAR",
+        "code": "81321021"
+    },
+    {
+        "city": "ALIGUDARZ",
+        "code": "81340000"
+    },
+    {
+        "city": "BORUJERD",
+        "code": "81360000"
+    },
+    {
+        "city": "POLEDOKHTAR",
+        "code": "81330000"
+    },
+    {
+        "city": "چالانچولان",
+        "code": "81382022"
+    },
+    {
+        "city": "KHORRAMABAD",
+        "code": "81310000"
+    },
+    {
+        "city": "DORUD",
+        "code": "81380000"
+    },
+    {
+        "city": "RUMESHKHAN",
+        "code": "81392000"
+    },
+    {
+        "city": "ZAGHEH",
+        "code": "81316000"
+    },
+    {
+        "city": "SELSELEH",
+        "code": "81320000"
+    },
+    {
+        "city": "KONANI",
+        "code": "81394000"
+    },
+    {
+        "city": "KUHDASHT",
+        "code": "81390000"
+    },
+    {
+        "city": "GARAB",
+        "code": "81393021"
+    },
+    {
+        "city": "GOSHKI",
+        "code": "81361034"
+    },
+    {
+        "city": "NURABADELORESTAN",
+        "code": "81371021"
+    },
+    {
+        "city": "استان  مازندران",
+        "code": "16000000"
+    },
+    {
+        "city": "AMOL",
+        "code": "16320000"
+    },
+    {
+        "city": "BABOL",
+        "code": "16330000"
+    },
+    {
+        "city": "BABOLSAR",
+        "code": "16340000"
+    },
+    {
+        "city": "BEHSHAHR",
+        "code": "16350000"
+    },
+    {
+        "city": "TONEKABON",
+        "code": "16380000"
+    },
+    {
+        "city": "JUYBAR",
+        "code": "16430000"
+    },
+    {
+        "city": "CHALUS",
+        "code": "16460000"
+    },
+    {
+        "city": "CHAMESTAN",
+        "code": "16443000"
+    },
+    {
+        "city": "KHAZARAABAD",
+        "code": "16311032"
+    },
+    {
+        "city": "DABUAMUL",
+        "code": "16323022"
+    },
+    {
+        "city": "RAMSAR",
+        "code": "16390000"
+    },
+    {
+        "city": "ROYAN",
+        "code": "16441023"
+    },
+    {
+        "city": "SARI",
+        "code": "16310000"
+    },
+    {
+        "city": "SARKHROD",
+        "code": "16372000"
+    },
+    {
+        "city": "SALMANSHAHR",
+        "code": "16512021"
+    },
+    {
+        "city": "SHIRGAH",
+        "code": "16412000"
+    },
+    {
+        "city": "SHIRRUD",
+        "code": "16381032"
+    },
+    {
+        "city": "ABBASABAD",
+        "code": "16510000"
+    },
+    {
+        "city": "FEREYDUNKENAR",
+        "code": "16480000"
+    },
+    {
+        "city": "QAEMSHAHR",
+        "code": "16420000"
+    },
+    {
+        "city": "KELARDASHT",
+        "code": "16462000"
+    },
+    {
+        "city": "KIASAR",
+        "code": "16312021"
+    },
+    {
+        "city": "MAHMUDABAD",
+        "code": "16370000"
+    },
+    {
+        "city": "MARZANABAD",
+        "code": "16462021"
+    },
+    {
+        "city": "NEKA",
+        "code": "16470000"
+    },
+    {
+        "city": "NUR",
+        "code": "16440000"
+    },
+    {
+        "city": "NOWSHAHR",
+        "code": "16450000"
+    },
+    {
+        "city": "NOKANDEHKOLAH",
+        "code": "16421027"
+    },
+    {
+        "city": "ARAK",
+        "code": "51310000"
+    },
+    {
+        "city": "آبگرم  محلات",
+        "code": "51381022"
+    },
+    {
+        "city": "ASTANEH",
+        "code": "51371021"
+    },
+    {
+        "city": "ASHTIAN",
+        "code": "51320000"
+    },
+    {
+        "city": "AHANGARAN",
+        "code": "51431030"
+    },
+    {
+        "city": "PARANDAKMARKAZI",
+        "code": "51411031"
+    },
+    {
+        "city": "TAFRESH",
+        "code": "51330000"
+    },
+    {
+        "city": "TALKHAB",
+        "code": "51432021"
+    },
+    {
+        "city": "TUREH",
+        "code": "51372023"
+    },
+    {
+        "city": "KHOMEYN",
+        "code": "51340000"
+    },
+    {
+        "city": "KHENEJIN",
+        "code": "51432000"
+    },
+    {
+        "city": "KHONDAB",
+        "code": "51420000"
+    },
+    {
+        "city": "DAVUDABAD",
+        "code": "51311034"
+    },
+    {
+        "city": "DELIJAN",
+        "code": "51350000"
+    },
+    {
+        "city": "SARUQ",
+        "code": "51311028"
+    },
+    {
+        "city": "SAVEH",
+        "code": "51360000"
+    },
+    {
+        "city": "SARBAND",
+        "code": "51371030"
+    },
+    {
+        "city": "SANGSEFID",
+        "code": "51422022"
+    },
+    {
+        "city": "SHAZAND",
+        "code": "51370000"
+    },
+    {
+        "city": "SHAHRAB",
+        "code": "51331027"
+    },
+    {
+        "city": "GHARQABAD",
+        "code": "51364021"
+    },
+    {
+        "city": "FARMAHIN",
+        "code": "51431021"
+    },
+    {
+        "city": "KOMIJAN",
+        "code": "51390000"
+    },
+    {
+        "city": "کهک  تفرش",
+        "code": "51331032"
+    },
+    {
+        "city": "GAZERANKHONDAB",
+        "code": "51421022"
+    },
+    {
+        "city": "MAMUNIYEH",
+        "code": "51411021"
+    },
+    {
+        "city": "MAHALLAT",
+        "code": "51380000"
+    },
+    {
+        "city": "MOHAJERANSARBAND",
+        "code": "51372025"
+    },
+    {
+        "city": "MILAJERD",
+        "code": "51392000"
+    },
+    {
+        "city": "NARAGH",
+        "code": "51351022"
+    },
+    {
+        "city": "NOWBARAN",
+        "code": "51364000"
+    },
+    {
+        "city": "NIMVAR",
+        "code": "51381023"
+    },
+    {
+        "city": "بستک",
+        "code": "64390000"
+    },
+    {
+        "city": "بندرجاسک",
+        "code": "64320001"
+    },
+    {
+        "city": "BANDARABBAS",
+        "code": "64310000"
+    },
+    {
+        "city": "BANDARLENGEH",
+        "code": "64330000"
+    },
+    {
+        "city": "BIYABAN",
+        "code": "64431021"
+    },
+    {
+        "city": "PARSIAN",
+        "code": "64420000"
+    },
+    {
+        "city": "JASK",
+        "code": "64320000"
+    },
+    {
+        "city": "JAZIREHKISH",
+        "code": "64334001"
+    },
+    {
+        "city": "HAJJIABAD",
+        "code": "64350000"
+    },
+    {
+        "city": "KHAMIR",
+        "code": "64410000"
+    },
+    {
+        "city": "DARGAHAN",
+        "code": "64371022"
+    },
+    {
+        "city": "RUDAN ",
+        "code": "64360000"
+    },
+    {
+        "city": "QESHM",
+        "code": "64370000"
+    },
+    {
+        "city": "KISH",
+        "code": "64334000"
+    },
+    {
+        "city": "GAVBANDI",
+        "code": "64420001"
+    },
+    {
+        "city": "GEHKAM",
+        "code": "64351025"
+    },
+    {
+        "city": "MINAB",
+        "code": "64380000"
+    },
+    {
+        "city": "HASHTBANDI",
+        "code": "64381028"
+    },
+    {
+        "city": "ASADABAD",
+        "code": "75320000"
+    },
+    {
+        "city": "BAHAR",
+        "code": "75330000"
+    },
+    {
+        "city": "TUYSERKAN",
+        "code": "75340000"
+    },
+    {
+        "city": "JOWKAR",
+        "code": "75372000"
+    },
+    {
+        "city": "KHERADMAND",
+        "code": "75371037"
+    },
+    {
+        "city": "DAMGH",
+        "code": "75352023"
+    },
+    {
+        "city": "RAZAN",
+        "code": "75350000"
+    },
+    {
+        "city": "ROWAN",
+        "code": "75391024"
+    },
+    {
+        "city": "SORKAN",
+        "code": "75341022"
+    },
+    {
+        "city": "CHANGARIN",
+        "code": "75353023"
+    },
+    {
+        "city": "SHIRINSU",
+        "code": "75362000"
+    },
+    {
+        "city": "FAMENIN",
+        "code": "75390000"
+    },
+    {
+        "city": "QORVEHEDARJAZIN",
+        "code": "75353000"
+    },
+    {
+        "city": "قهاوند",
+        "code": "75312022"
+    },
+    {
+        "city": "KABUDRAHANG",
+        "code": "75360000"
+    },
+    {
+        "city": "GOLTAPPEH",
+        "code": "75363000"
+    },
+    {
+        "city": "LALEJIN",
+        "code": "75333000"
+    },
+    {
+        "city": "MALAYER",
+        "code": "75370000"
+    },
+    {
+        "city": "MOHAJERANEBAHAR",
+        "code": "75333023"
+    },
+    {
+        "city": "NAHAVAND",
+        "code": "75380000"
+    },
+    {
+        "city": "HAMADAN",
+        "code": "75310000"
+    },
+    {
+        "city": "ABARKUH",
+        "code": "93360000"
+    },
+    {
+        "city": "ARDAKAN",
+        "code": "93330000"
+    },
+    {
+        "city": "BAFQ",
+        "code": "93340000"
+    },
+    {
+        "city": "BEHABAD ",
+        "code": "93420000"
+    },
+    {
+        "city": "TAFT",
+        "code": "93350000"
+    },
+    {
+        "city": "ROBATPOSHTBADAM",
+        "code": "93333022"
+    },
+    {
+        "city": "شیرکوه",
+        "code": "93351023"
+    },
+    {
+        "city": "MARVAST",
+        "code": "93412000"
+    },
+    {
+        "city": "MEHRIZ",
+        "code": "93370000"
+    },
+    {
+        "city": "MEYBOD",
+        "code": "93380000"
+    },
+    {
+        "city": "HERAT",
+        "code": "93411021"
+    },
+    {
+        "city": "YAZD",
+        "code": "93310000"
+    }
+]
