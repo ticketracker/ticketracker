@@ -7,10 +7,10 @@ the core is responsible to manage trackers, recieve user's intended ticket, send
 the main codes for recieving tickets from providers are there (in **core** directory)
 
 there are some modules that you may need to know to understand how core works:
-	- [*provider*](#providers)
-	- [*handler*](#handlers)
-	- [*ticket*](#tickets)
-	- [*tracker*](#tracker)
+- [*provider*](#providers)
+- [*handler*](#handlers)
+- [*ticket*](#tickets)
+- [*tracker*](#tracker)
 
 
 # Providers
@@ -29,9 +29,9 @@ class Provider:
 ```
 
 describe methods:
-	- *name*: it's the name of provider to recognize what provider is tracking
-	- *vehicles**: it's the providers's ticket avaiable vehicles for example ["Bus", "Airplane", "Train", "Ship"] (note: the *Vehicle* class is enum)
-	- *handler*: each provider has it's own handler that comes from *Handler* abstract class, this class is responsible to search over the provider's website to recieve ticket
+- *name*: it's the name of provider to recognize what provider is tracking
+- *vehicles**: it's the providers's ticket avaiable vehicles for example ["Bus", "Airplane", "Train", "Ship"] (note: the *Vehicle* class is enum)
+- *handler*: each provider has it's own handler that comes from *Handler* abstract class, this class is responsible to search over the provider's website to recieve ticket
 
 
 # Handlers
@@ -56,39 +56,37 @@ class Handler(ABC):
 
 > Note: this is an abstract class, so if there is a provider called `ABC`
 > we need to create a class that inhreit from this class. like bellow
-```python
+>>```python
+>>class ABCHandler(Handler):
+>>
+>>	async def search(self, input: TicketRequest) -> list[Ticket]:
+>>		# codes for this handler's search comes here
+>>
+>>	def is_valid_ticket(input: TicketRequest, service: dict) -> bool: ...
+>>		# codes for this handler's is_valid_ticket comes here
+>>
+>>	def to_ticket(service: dict, ticket_request: TicketRequest) -> Ticket: ...
+>>		# codes for this handler's to_ticket comes here
+>>```
 
-class ABCHandler(Handler):
-
-	async def search(self, input: TicketRequest) -> list[Ticket]:
-		# codes for this handler's search comes here
-
-	def is_valid_ticket(input: TicketRequest, service: dict) -> bool: ...
-		# codes for this handler's is_valid_ticket comes here
-
-	def to_ticket(service: dict, ticket_request: TicketRequest) -> Ticket: ...
-		# codes for this handler's to_ticket comes here
-
-```
 
 describe methods:
-	- *search*: this method is responsible to collect tickets of given `input: TicketRequests` and returns a list of requested tickets, (note: it returns False if no ticket collected)
-	- *is_valid_ticket*: this method calls in *search* method, just pass the ticket information and returns *True* if that ticket is our intended ticket or returns *False*
-	- *to_ticket*: and also this method calls in *search* method, and just return a `Ticket` object that fitted of given ticket information as dict
+- *search*: this method is responsible to collect tickets of given `input: TicketRequests` and returns a list of requested tickets, (note: it returns False if no ticket collected)
+- *is_valid_ticket*: this method calls in *search* method, just pass the ticket information and returns *True* if that ticket is our intended ticket or returns *False*
+- *to_ticket*: and also this method calls in *search* method, and just return a `Ticket` object that fitted of given ticket information as dict
 
 
 # Tickets:
 
 
 **descriptions:** in ticket module there are two class, one `TicketRequest` and `Ticket`
-the `TicketRequest` is the user's intended tickets. for exmpale:
-	imagine user wants to recieve tickets of this information:
-		- ticket is for `Train` vehicle
-		- departue date is `2024 November 23`
-		- price ranges is `1,000,000 Rial -> 2,000,000 Rial`
-		- origin city and destination city is : 'Tehran' -> 'Shiraz'
-		- is this one way ticket or two way?
-		- and so on ...
+the `TicketRequest` is the user's intended tickets. for exmpale: imagine user wants to recieve tickets of this information:
+- ticket is for `Train` vehicle
+- departue date is `2024 November 23`
+- price ranges is `1,000,000 Rial -> 2,000,000 Rial`
+- origin city and destination city is : 'Tehran' -> 'Shiraz'
+- is this one way ticket or two way?
+- and so on ...
 
 and the `Ticket` class is recieved tickets in our form. if handlers tracks ticket, they use this class to return their ticket (just to be more cleaner and easier)
 
@@ -160,8 +158,8 @@ class Tracker:
 ```
 
 describe class:
-	- *id*: it's a uuid version 4, that is the id for tracker
-	- *ticker_request*: the user intended ticket request
-	- *providers*: which providers to serach over them, maybe a user just one to track from specific providers not all of them
-	- *active_duration*: well each tracker has it's own active duration time, and tracker is just active for that time, for exmaple user wants Tracker to tracks his/her intended ticket for *1 day*, and the tracker goes tracking just for 1day not less not more
-	- *reprot_to*: if tracker found something, it will reports to that given 'Email Address' / 'Phone number' or 'Telegram ID'
+- *id*: it's a uuid version 4, that is the id for tracker
+- *ticker_request*: the user intended ticket request
+- *providers*: which providers to serach over them, maybe a user just one to track from specific providers not all of them
+- *active_duration*: well each tracker has it's own active duration time, and tracker is just active for that time, for exmaple user wants Tracker to tracks his/her intended ticket for *1 day*, and the tracker goes tracking just for 1day not less not more
+- *reprot_to*: if tracker found something, it will reports to that given 'Email Address' / 'Phone number' or 'Telegram ID'
