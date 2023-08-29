@@ -28,6 +28,12 @@ class Provider:
 	vehicles: list[Vehicle] | Vehicle
 	handler: Handler
 
+	def __post_init__(self):
+		self.vehicles = self.vehicles if isinstance(self.vehicles, list) else [self.vehicles]
+
+	def support_vehicle(self, vehicle: str):
+		return vehicle in [v.name for v in self.vehicles]
+
 
 providers_list = {
 	"safar724": Provider("safar724", Vehicle.BUS, Safar724Handler()),
