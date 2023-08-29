@@ -145,9 +145,14 @@ class Tracker:
 	providers: dict[Provider] | Provider = field(repr=False)
 	active_duration: datetime.timedelta
 	report_to: str
+	delay_between_track: int = DEFAULT_DELAY
+	active: bool = field(init=False, default=True)
 
 	def __post_init__(self):
 		self.id = uuid.uuid4()
+		if self.active_duration > MAX_DURATION:
+			print("can't more than one week")
+			self.active = False
 
 	async def start_tracking(self) -> None:
 		"""Main code for start tracking tickets"""
