@@ -17,11 +17,11 @@ class TicketRequestSerializer(serializers.Serializer):
     departue_date = serializers.DateTimeField()
     price_from = serializers.IntegerField()
     price_to = serializers.IntegerField()
-    time_from = serializers.TimeField()
-    time_to = serializers.TimeField()
-    return_date = serializers.DateTimeField(required=False)
+    time_start = serializers.TimeField()
+    time_end = serializers.TimeField()
+    return_date = serializers.DateTimeField(default=None)
     one_way = serializers.BooleanField(default=True)
-    class_type = serializers.CharField(required=False)
+    class_type = serializers.CharField(default=None)
 
 
 class TrackerSerializer(serializers.Serializer):

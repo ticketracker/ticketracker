@@ -12,6 +12,9 @@ def api_create_tracker(request):
     
     if serializer.is_valid():
         instance = serializer.save()
-        return Response("Your tracker just created, this will send you ticket informations when tracks something")
+        return Response({
+        	"status": "OK", 
+        	"message": "Your tracker just created, this will send you ticket informations when tracks something"
+        })
 
-    return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+    return Response({"status": "ERROR", "errors": serializer.errors}, status=status.HTTP_400_BAD_REQUEST)
