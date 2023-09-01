@@ -1,3 +1,7 @@
 from django.contrib import admin
+from .models import Tracker, TicketRequest, Provider
 
-# Register your models here.
+
+admin.site.register(Tracker)
+admin.site.register(TicketRequest)
+admin.site.register(Provider)
