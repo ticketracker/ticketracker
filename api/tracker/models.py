@@ -1,6 +1,8 @@
 from django.db import models
 from django.core.exceptions import ValidationError
 
+def get_default_passengers():
+    return {"adult": 1, "baby": 0, "child": 0}
 
 class TicketRequest(models.Model):
     VEHICLES = [
@@ -9,9 +11,6 @@ class TicketRequest(models.Model):
         ('AIRPLANE', 'Aairplane'),
         ('SHIP', 'Ship')
     ]
-
-    def get_default_passengers(self):
-        return {"adult": 1, "baby": 0, "child": 0}
 
     vehicle = models.CharField(max_length=50, choices=VEHICLES)
     origin_city = models.CharField(max_length=50)
