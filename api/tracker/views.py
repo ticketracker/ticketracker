@@ -1,8 +1,9 @@
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
-from .serializer import TrackerSerializer
 from rest_framework.parsers import JSONParser
+from rest_framework import status
 
+from .serializers import TrackerSerializer
 
 @api_view(["POST"])
 def api_create_tracker(request):
@@ -11,6 +12,6 @@ def api_create_tracker(request):
     
     if serializer.is_valid():
         instance = serializer.save()
-        return Response("OK")
+        return Response("Your tracker just created, this will send you ticket informations when tracks something")
 
-    return Response(serializer.errors)
+    return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
